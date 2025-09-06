@@ -1,6 +1,6 @@
 public class Firstjavacode {
     public static void main(String[] args) {
-        System.out.println("This code");
+        System.out.println("This code one");
 
 
 
